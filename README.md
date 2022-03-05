@@ -1,4 +1,4 @@
-# video-detector
+# Video Detector
 
 A lightweight real-time object detection on camera input.
 
