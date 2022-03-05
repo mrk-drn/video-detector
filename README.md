@@ -13,9 +13,9 @@ A lightweight real-time object detection on camera input.
 * Cats
 * Further objects might follow
 
-<img src="demo_images/football.png">
+<img src="demo_images/football.png" width="600">
 
-<img src="demo_images/leonardo_dicaprio_cat.png">
+<img src="demo_images/leonardo_dicaprio_cat.png" width="600">
 
 
 Pictures of the detected objects are stored in a newly created detections folder.
