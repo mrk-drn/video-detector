@@ -1,6 +1,6 @@
 # Video Detector
 
-A lightweight real-time object detection on camera input.
+A lightweight real-time object [detection](https://github.com/mrk-drn/video-detector/blob/master/src/VideoDetection.cpp) on camera input.
 
 ## Requirements
 * Camera (e.g. simple laptop front camera)
