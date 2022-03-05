@@ -13,6 +13,10 @@ A lightweight real-time object detection on camera input.
 * Cats
 * Further objects might follow
 
+<img src="demo_images/football.PNG">
+
+<img src="demo_images/leonardo_dicaprio_cat.PNG">
+
 Pictures of the detected objects are stored in a newly created detections folder.
 ```C++
 struct stat dirInfo;
